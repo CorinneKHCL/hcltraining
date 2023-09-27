@@ -1,0 +1,62 @@
+
+https://adex.dna.hclets.com/adexhtml/hitech/rest.json
+Logo /content/dam/projdemo/logo/logo.png
+
+Banners
+-----
+Securing the Cloud Generation
+/content/dam/projdemo/banners/banner-1.png
+Fueled by the world's largest civilian threat intelligence network
+
+
+Premium Technical Support
+Industry leading support professionals for your service at a click of a mouse
+/content/dam/projdemo/banners/banner-2.png
+
+
+Cyber Security Services
+Strengthen your cyber defence by addressing every stage of the attack lifecycle with threat
+/content/dam/projdemo/banners/banner-3.png
+
+Education Services
+Leading Cybersecurity Education Programs 2017 for Hi-tech industry.
+/content/dam/projdemo/banners/banner-4.png
+
+
+
+
+Card Teaser
+/content/dam/projdemo/icons/pro_icon1.png
+Endpoint & Hybrid Cloud Security
+Connect your business, applications & insights with global teams
+
+/content/dam/projdemo/icons/pro_icon2.png
+Information Protection
+Risk of a Security Breach in a Changing Landscape of Threats
+
+/content/dam/projdemo/icons/pro_icon3.png
+Web & Cloud Security
+Shield your critical data, wherever it lives. No matter what the threat
+
+/content/dam/projdemo/icons/pro_icon4.png
+Messaging Security
+Protect your users and critical assets with multi-layered security
+
+
+
+/content/dam/projdemo/icons/quick_icon1.png
+Try it Now
+Find out what your company needs from a plethora of high tech solutions
+
+/content/dam/projdemo/icons/quick_icon2.png
+Services & Support
+Choose your support from a wide range of services the required support
+
+/content/dam/projdemo/icons/quick_icon3.png
+Training & Certification
+Get certified on a range of technologies for better understanding and deployment
+
+/content/dam/projdemo/icons/quick_icon4.png
+Events
+Find out about the industry evolving events for partners and customers
+
